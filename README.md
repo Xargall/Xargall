@@ -1,41 +1,51 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="60" alt="css logo"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9d423,100:e040fb&height=240&section=header&text=Mathias&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Mathias banner"/>
 </div>
 
-###
-
 <div align="center">
-  <a href="de.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/557383385044090890" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=eab308&center=true&vCenter=true&width=640&lines=Learning%20all%20required%20skills.;Ready%20to%20roll)](https://git.io/typing-svg)
+
+![Building something](https://img.shields.io/badge/%F0%9F%94%B5%20Building%20something-3b82f6?style=flat-square)
+
 </div>
 
-###
+### About
 
-<br clear="both">
+Full-Stack Developer in Training @ Developer Akademie.
+
+- ⌖ **Location** · Leipzig, Germany
+- ⟳ **Learning** · HTML, CSS and JavaScript
+- ✦ **Fun fact** · 10+ years of experience in car industry, now back to square 0.
+
+### Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Languages"/>
+
+### Languages
+- 🇩🇪 **German** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+- 🇬🇧 **English** · ![Advanced](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square)
+
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xargall&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xargall&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Xargall&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" alt="Mathias stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xargall&layout=compact&langs_count=8&theme=onedark&hide_border=true" alt="Mathias top languages"/>
+
 </div>
 
-###
+### Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xargall/Xargall/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xargall/Xargall/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Xargall/Xargall/output/pacman-contribution-graph.svg">
-</picture>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xargall&theme=react-dark&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=Xargall&theme=react-dark&hide_border=true&area=true)
 
-###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
+---
+
+<div align="center">
+
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/Xargall">github.com/Xargall</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9d423,100:e040fb&height=120&section=footer" width="100%" alt="Footer wave"/>
+
+</div>
