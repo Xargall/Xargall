@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ec4899&center=true&vCenter=true&width=640&lines=Learning%20all%20required%20skills;Ready%20to%20code)](https://git.io/typing-svg)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayer-mathias) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://www.mathias-mayer.de/) ![Profile Views](https://komarev.com/ghpvc/?username=Xargall&color=ec4899&style=flat-square)
+
 ![Building something](https://img.shields.io/badge/%F0%9F%94%B5%20Building%20something-3b82f6?style=flat-square)
 
 </div>
@@ -22,11 +24,19 @@ I build reliable products end to end, with a strong bias for maintainable system
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="Languages"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=bootstrap,angular,vite&theme=dark" alt="Frontend"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="DevOps & Cloud"/>
 
 ### Languages
 - 🇩🇪 **German** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
